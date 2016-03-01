@@ -8,7 +8,7 @@ If you have virtual scans and regular ThermalScannerPro in your inventory it wil
 Made for XM8 Apps http://www.exilemod.com/topic/9040-updated-xm8-apps/
 
 */
-
+private ["_display", "_xm8Controlls", "_fade", "_Xm8ScanOption", "_maxScans", "_Xm8Scans", "_scannerInfo", "_ThermalScans", "_canUpload", "_error", "_finalScans", "_scanInfoFrame", "_scanInfoText", "_scanInfoText1", "_scanInfoText2", "_scanUploadFrame", "_scanUploadText", "_scanUploadButton", "_goBackButton", "_scanResponseFrame", "_scanMainFrame", "_scanMainNum", "_scanMainTitle", "_scanErrorDefault", "_scanErrorTooMany", "_scanHasThermalPro", "_scanSuccessUpload"];
 findScanners = compileFinal preprocessFileLineNumbers "xm8apps\custom\findScanners.sqf";
 
 disableSerialization;
