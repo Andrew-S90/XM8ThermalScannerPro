@@ -2,11 +2,10 @@
 Virtual ThermalScannerPro App
 
 
-THIS IS FOR EXPERIENCED SCRIPTERS. OR PEOPLE WHO CAN FOLLOW DIRECTIONS REALLY WELL.
+THIS IS FOR SCRIPTERS OR PEOPLE WHO CAN FOLLOW DIRECTIONS REALLY WELL.
 
 I AM NOT PROVIDING BLANK FILES FOR ANYTHING HERE. SIMPLY MERGE OR ADD TO YOUR FILES. DO NOT USE THESE FILES AS OVERWRITES!!
 
-READ!
 
 1. [Client] Add the Name, Image and exec to your xm8_apps_init.sqf file, image is inside of image folder and EVERYTHING
   inside of custom folder will go in that custom folder inside your xm8apps folder!!! ALL 4 Files
